@@ -1,6 +1,6 @@
 ## Grüezi 👋
 
-Sammlung von Unterlagen im Rahmen des Bsc. Cybersecurity an der FFHS
+Sammlung von Unterlagen im Rahmen des Bsc. Cybersecurity an der FFHS (Start HS23/24)
 
 - Dies ist kein offizielles Repository der FFHS.
 
