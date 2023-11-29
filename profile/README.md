@@ -1,5 +1,11 @@
 ## Grüezi 👋
 
-Sammlung von Unterlagen des Bsc. Cybersecurity an der FFHS
+Sammlung von Unterlagen im Rahmen des Bsc. Cybersecurity an der FFHS
 
-Wichtig: Dies ist kein offizielles Repository der FFHS!
+- Dies ist kein offizielles Repository der FFHS.
+
+### Lizenzen
+- Für Dokumente gilt die Lizenz CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-nc-sa/4.0/), wo nicht anderst vermerkt.
+- Für Software / Code gilt die in LICENSE hinterlegte Lizenz.
+- Für Materialen die in Gänze und teilweise von der FFHS übernommen wurden, gilt deren Copyright.
+
